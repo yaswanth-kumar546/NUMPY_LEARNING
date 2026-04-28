@@ -24,6 +24,7 @@ Helps students and self‑learners grasp NumPy quickly
 
 Acts as a free resource for interview prep and project building
 
-🔗 I’m sharing this openly so learners can benefit: [Add your GitHub/Drive/Notion link here]
+🔗 I’m sharing this openly so learners can benefit: [https://github.com/yaswanth-kumar546/NUMPY_LEARNING]
 
 Let’s 
+commence learning....Good luck mates.
